@@ -1,0 +1,1 @@
+yarn start -> dist폴더 선택
